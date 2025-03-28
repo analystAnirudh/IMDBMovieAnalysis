@@ -37,6 +37,7 @@ Task: Analyze the correlation between movie budgets and gross earnings, and iden
 Hint: Calculate the correlation coefficient between movie budgets and gross earnings using Excel's CORREL function. Calculate the profit margin (gross earnings - budget) for each movie and identify the movies with the highest profit margin using Excel's MAX function.
 
 🚀 Technologies Used
+
 ✔ Microsoft Excel (Data Cleaning, Analysis, Visualization)
 
 ✔ Statistical Methods (Correlation, Outliers, Data Distribution)
@@ -44,23 +45,35 @@ Hint: Calculate the correlation coefficient between movie budgets and gross earn
 ✔ Data Storytelling & Visualization Techniques
 
 📥 How to Use
+
 🔹 Download the dataset (Check RAW Data-Folder) ♻
+
 🔹 Load it into Excel and clean the data.
+
 🔹 Perform analysis using Excel formulas, pivot tables, and charts.
+
 🔹 Generate insights and visualize key findings.
+
 🔹 Document interpretations and recommendations.
 
 💡 Insights & Business Impact
+
 🔹 Identify patterns in movie success factors.
+
 🔹 Guide filmmakers on budget allocation and strategy.
+
 🔹 Optimize movie marketing based on analytical insights.
+
 🔹 Help investors make data-driven production decisions.
 
 📩 Contribute & Connect
+
 🔗 If you find this project helpful or have suggestions, feel free to contribute!
 
 📬 Let’s Connect:
+
 🌐 LinkedIn: www.linkedin.com/in/anirrudhchaudhry
+
 📧 E-mail: anirudh.chaudharyofficial@gmail.com
 
 🎥 Happy Analyzing! 📊🎯
