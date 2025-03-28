@@ -38,7 +38,9 @@ Hint: Calculate the correlation coefficient between movie budgets and gross earn
 
 🚀 Technologies Used
 ✔ Microsoft Excel (Data Cleaning, Analysis, Visualization)
+
 ✔ Statistical Methods (Correlation, Outliers, Data Distribution)
+
 ✔ Data Storytelling & Visualization Techniques
 
 📥 How to Use
